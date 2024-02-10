@@ -61,3 +61,6 @@ selected_columns_df = PredictLag3[original_column_names]
 selected_columns_df.head()
 
 ```
+### Reference
+
+[Read the paper here](https://yangfeng.hosting.nyu.edu/publication/yousuf-2018-partial/yousuf-2018-partial.pdf)
