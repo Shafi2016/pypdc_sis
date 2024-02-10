@@ -48,7 +48,7 @@ results = PDC_SIS(Xwl, Y, lags=3, top_n=10)
 # Output the data frame of lagged versions of Y
 #print(results['Y_conditioning_df'].head())
 
-# Assuming results['indices'] contains the indices of selected columns
+
 selected_indices = results['indices']
 
 # Retrieve the original names for the selected columns
