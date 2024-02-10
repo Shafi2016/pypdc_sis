@@ -65,6 +65,6 @@ selected_columns_df.head()
 
 **Title:** Targeting Predictors Via Partial Distance Correlation With Applications to Financial Forecasting
 
-**Authors:** Kashif Yousufa and Yang Fengb
+**Authors:** Kashif Yousufa and Yang Feng
 
 [Read the paper here](https://yangfeng.hosting.nyu.edu/publication/yousuf-2018-partial/yousuf-2018-partial.pdf)
