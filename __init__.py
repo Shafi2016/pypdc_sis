@@ -1,5 +1,5 @@
 # /pypdc-sis/__init__.py
 
 
-from pypdc-sis.PDC-SIS import*
+from pypdc-sis.PDC_SIS import*
 
