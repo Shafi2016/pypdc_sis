@@ -7,7 +7,7 @@ setup(
     author='Shafiullah Qureshi',
     author_email='qureshi.shafiullah@gmail.com',
     install_requires=[
-        'dcor',
+        'dcor',numpy==1.23.1
     ],
     package_data={
         'pypdc-sis': ['data/*']
